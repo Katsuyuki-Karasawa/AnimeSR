@@ -1,0 +1,17 @@
+{
+  "ext_description": {
+    "message": "AnimeSR is a browser extension for enhancing the image quality of anime on web pages in real time. "
+  },
+  "turn_on_anime_sr": {
+    "message": "Turn on AnimeSR"
+  },
+  "turn_off_anime_sr": {
+    "message": "Turn off AnimeSR"
+  },
+  "fps_winodw": {
+    "message": "Show/hide FPS window"
+  },
+  "support_page": {
+    "message": "https://radius5.notion.site/Support-30def07413e04383b898cd4f9b2fb50d"
+  }
+}

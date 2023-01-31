@@ -1,0 +1,17 @@
+{
+  "ext_description": {
+    "message": "AnimeSR是用来实时提升网页中动漫视频画质的浏览器扩展功能。"
+  },
+  "turn_on_anime_sr": {
+    "message": "打开AnimeSR"
+  },
+  "turn_off_anime_sr": {
+    "message": "关闭AnimeSR"
+  },
+  "fps_winodw": {
+    "message": "显示/隐藏FPS窗口"
+  },
+  "support_page": {
+    "message": "https://radius5.notion.site/279f02f3cfcd4d1d8783f0857e0a6c90"
+  }
+}

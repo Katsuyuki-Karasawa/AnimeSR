@@ -1,0 +1,17 @@
+{
+  "ext_description": {
+    "message": "AnimeSRは、ウェブページ内に表示されるアニメ映像をリアルタイムに高画質化するためのブラウザ拡張機能です。"
+  },
+  "turn_on_anime_sr": {
+    "message": "AnimeSRをONにする"
+  },
+  "turn_off_anime_sr": {
+    "message": "AnimeSRをOFFにする"
+  },
+  "fps_winodw": {
+    "message": "FPSウィンドウを表示/非表示"
+  },
+  "support_page": {
+    "message": "https://radius5.notion.site/01544913ef954470a735ee2b237a454c"
+  }
+}
